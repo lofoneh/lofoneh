@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeffery Lofoneh Asamani.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning React.js and node.js.
+- 🌱 I’m currently learning html, javascript and css.
 - 💞️ I’m looking to collaborate on any web applications.
 - 📫 How to reach me ... jefferyasamani7@gmail.com
 
