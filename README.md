@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeffery Lofoneh Asamani.
 - 👀 I’m interested in making the world a better place through software development.
-- 🌱 I’m currently DevOps engineer-Intern.
-- 💞️ I’m looking to collaborate on any project to sharpen my devops skills, e.g, cloud services, infrastructure as code,etc.
+- 🌱 I’m currently DevOps engineer.
+- 💞️ I’m looking to collaborate on any project to sharpen my devops skills, e.g, cloud services, infrastructure as code, CI/CD pipelines,etc.
 - 📫 How to reach me ... jefferyasamani7@gmail.com
 
 <!---
