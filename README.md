@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project to sharpen my devops skills, e.g, cloud services, infrastructure as code, CI/CD pipelines,etc.
 - 📫 How to reach me ... jefferyasamani7@gmail.com -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AWS+Cloud+Enthusiast;Fintech+Backend+Specialist;DevOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Cloud+Technology+Enthusiast;DevOps+Practitioner" alt="Typing SVG" />
 </div>
 
 ## 👋 Hello, I'm Jeffery Asamani
