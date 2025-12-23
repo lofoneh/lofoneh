@@ -11,7 +11,7 @@ I build reliable backend systems and automate infrastructure. I enjoy solving pr
 
 **Languages:** Go • Python • JavaScript/TypeScript
 
-**DevOps:** AWS • Docker • Kubernetes • Terraform • CI/CD
+**DevOps:** AWS • Azure • Docker • Kubernetes • Terraform • CI/CD • Ansible • Pulumi
 
 **Backend:** REST APIs • Microservices • Databases • Cloud Architecture
 
@@ -21,8 +21,3 @@ I'm always open to collaborating on interesting projects. If you're working on s
 
 📧 jefferyasamani7@gmail.com  
 🔗 [linkedin.com/in/jeffery-asamani](https://www.linkedin.com/in/jeffery-asamani/)
-
----
-
-*Currently learning: AWS Solutions Architecture & Kubernetes orchestration*
-```
