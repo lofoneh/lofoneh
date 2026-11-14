@@ -9,7 +9,7 @@ I build reliable backend systems and automate infrastructure. I enjoy solving pr
 
 ## Tech Stack
 
-**Languages:** Go • Python • JavaScript/TypeScript
+**Languages:** Go • Python • JavaScript/TypeScript • Rust
 
 **DevOps:** AWS • Azure • Docker • Kubernetes • Terraform • CI/CD • Ansible • Pulumi
 
